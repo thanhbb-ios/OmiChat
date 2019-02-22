@@ -1,2 +1,2 @@
 # OmiChat
-chatOminext
+OmiChat
